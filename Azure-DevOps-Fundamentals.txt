@@ -1,0 +1,10 @@
+
+This is week two of learning DevOps.
+This week two is for Azure DevOps Fundamentals and GitHub.
+The best recommended trainers by AI are.
+1. John Savill: https://www.youtube.com/watch?v=R74bm8IGu2M&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq
+2. Tech by Nana: https://www.youtube.com/watch?v=DoWhZO7nbCY
+3. Piyush: https://www.youtube.com/watch?v=ME06qJ2VeXA&list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD&index=2
+
+Learning starts today 26th October, 2026
+
